@@ -59,7 +59,6 @@ To use this repository, you should have:
 git clone https://github.com/RohitPawar001/Natural-Language-Processing.git
 
 # Navigate to the project directory
-cd machine_learning
 
 # Create a virtual environment (recommended)
 python -m venv venv
